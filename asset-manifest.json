@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/zidaneMovie/static/css/main.51d94c46.css",
-    "main.js": "/zidaneMovie/static/js/main.be4a66b4.js",
+    "main.js": "/zidaneMovie/static/js/main.13832f47.js",
     "static/js/787.61fdc206.chunk.js": "/zidaneMovie/static/js/787.61fdc206.chunk.js",
     "index.html": "/zidaneMovie/index.html",
     "main.51d94c46.css.map": "/zidaneMovie/static/css/main.51d94c46.css.map",
-    "main.be4a66b4.js.map": "/zidaneMovie/static/js/main.be4a66b4.js.map",
+    "main.13832f47.js.map": "/zidaneMovie/static/js/main.13832f47.js.map",
     "787.61fdc206.chunk.js.map": "/zidaneMovie/static/js/787.61fdc206.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51d94c46.css",
-    "static/js/main.be4a66b4.js"
+    "static/js/main.13832f47.js"
   ]
 }
